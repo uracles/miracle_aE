@@ -68,10 +68,4 @@ You can use tools like Postman or curl to interact with the API endpoints.
 
 A Postman collection with pre-configured requests is available for testing the API. You can download it [here](https://documenter.getpostman.com/view/32715206/2sA35D74CQ).
 
-### Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
